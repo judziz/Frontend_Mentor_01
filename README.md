@@ -3,7 +3,7 @@
 | Useful Links  |
 | ----------------- |
 [Assignement Link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-[Vercel Link](https://github.com)
+[Vercel Link - Desktop version](https://github.com)
 
 ---
 
